@@ -1,0 +1,1 @@
+select * from cron where type = 'redshiftreport' order by timestamp desc;
